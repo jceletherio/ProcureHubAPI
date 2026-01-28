@@ -9,7 +9,7 @@ API desenvolvida para atender às necessidades de um sistema de compra B2B, forn
 - Java (SpringBoot)
 - PostgreSQL
 
-Para usar é preciso definir sua base de dados em resources > application.properties os parâmetros:
+Para usar é preciso definir sua base de dados em resources > application.properties através dos parâmetros:
 
 spring.datasource.url
 
