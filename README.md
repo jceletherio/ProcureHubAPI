@@ -12,7 +12,7 @@ API desenvolvida para atender às necessidades de um sistema de compra B2B, forn
 Para usar é preciso definir sua base de dados em resources > application.properties os parâmetros:
 
 spring.datasource.url
+
 spring.datasource.username
+
 spring.datasource.password
-
-
